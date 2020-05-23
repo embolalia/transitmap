@@ -1,0 +1,7 @@
+__pycache__/*
+env3/*
+mta-key.txt
+*.sqlite
+*.swp
+*.zip
+*.svg
